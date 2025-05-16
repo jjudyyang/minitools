@@ -1,14 +1,10 @@
 # minitools
 
-Mini tools I built to make my time working on the Intelligent Inbox product smooth and efficient.
+Mini tools I built to make my time working on i2 @ Pepper smooth and efficient.
+
+total time saved: 105 hours 
 
 ## Tools in this repo
+1. script for keyboard short cut to capture graphql uuid of smart order without having to inspect, filter and click
+2. script to sent additional inbounds to inbounds via folder pathname and address instead of manually doing it via gmail
 
-### SOID Capture Tool (Tampermonkey Script)
-- **File:** `SOIDcapturetool.user.js`
-- **Purpose:** Quickly capture and copy SOIDs (Smart Order IDs) from various Pepr app environments. Provides a draggable popup, keyboard shortcuts for copying, and fields for annotating inbounds.
-- **How to use:** Install as a Tampermonkey userscript in your browser. Works on Troia, Majestic, GoFresh, Kohl, and Ace Endico Pepr apps.
-
----
-
-More tools may be added as needed to support workflow automation and QA for the Intelligent Inbox product. 
