@@ -2,7 +2,7 @@
 Some scripts that made my workflow a lot easier to minimize time spent on testing.
 
 ## SOIDcapturetool.user.js
-Script that creates keyboard shortcut to capture GraphQL UUID of smart order without having to inspect, filter and click :p
+Script that creates keyboard shortcut to capture GraphQL UUID of smart order without having to inspect, filter and click
 
 **Used with TamperMonkey Chrome extension:**
 https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=item-share-cb
