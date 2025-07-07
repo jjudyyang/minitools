@@ -1,5 +1,5 @@
 # minitools
-Some scripts that made my workflow a lot easier to minimize time spent on testing and understand the problem.
+Some scripts that made my workflow a lot easier to minimize time spent on testing.
 
 ## SOIDcapturetool.user.js
 Script that creates keyboard shortcut to capture GraphQL UUID of smart order without having to inspect, filter and click :p
